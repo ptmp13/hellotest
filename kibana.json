@@ -1,0 +1,14 @@
+{
+  "id": "hellotest",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "tet",
+    "githubTeam": ""
+  },
+  "description": "hellotest",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}
